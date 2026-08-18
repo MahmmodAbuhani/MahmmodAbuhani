@@ -1,0 +1,66 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Mahmmod Abuhani profile index</title>
+  <desc id="description">Retro-futurist editorial masthead in plum, violet, pink, and teal for a data systems and analytics profile.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="54" y1="24" x2="1148" y2="296" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#120F1E"/>
+      <stop offset="0.56" stop-color="#0A0913"/>
+      <stop offset="1" stop-color="#17112A"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="144" y1="0" x2="1048" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF5C9E"/>
+      <stop offset="0.52" stop-color="#8B7FF0"/>
+      <stop offset="1" stop-color="#4BE3B5"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#FF5C9E" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#FF5C9E" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#332B52" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect x="1" y="1" width="1198" height="318" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#background)"/>
+    <rect width="1200" height="320" fill="url(#grid)" opacity="0.35"/>
+
+    <path d="M736 -80C865 28 924 126 1216 148" stroke="#8B7FF0" stroke-opacity="0.23" stroke-width="72"/>
+    <path d="M784 -44C905 51 970 110 1226 130" stroke="#FF5C9E" stroke-opacity="0.12" stroke-width="28"/>
+    <path d="M745 350C847 213 991 192 1240 198" stroke="#4BE3B5" stroke-opacity="0.12" stroke-width="54"/>
+
+    <circle cx="1048" cy="146" r="122" stroke="#8B7FF0" stroke-opacity="0.35"/>
+    <circle cx="1048" cy="146" r="84" stroke="#FF5C9E" stroke-opacity="0.42"/>
+    <circle cx="1048" cy="146" r="43" stroke="#4BE3B5" stroke-opacity="0.58"/>
+    <path d="M912 146H1184" stroke="url(#signal)" stroke-opacity="0.9"/>
+    <path d="M1048 10V282" stroke="url(#signal)" stroke-opacity="0.68"/>
+    <circle cx="1048" cy="146" r="5" fill="#FFB454"/>
+    <circle cx="1048" cy="146" r="11" stroke="#FFB454" stroke-opacity="0.5"/>
+
+    <path d="M56 38H384" stroke="url(#fade)" stroke-width="2"/>
+    <path d="M56 282H596" stroke="url(#signal)" stroke-width="2"/>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="3">
+      <text x="56" y="66" fill="#FF5C9E" font-size="15">PROFILE INDEX / 2026</text>
+      <text x="56" y="250" fill="#A09EC0" font-size="14">DATA SYSTEMS · ANALYTICS · RESEARCH</text>
+      <text x="862" y="286" fill="#615E82" font-size="12">CHI / 41.8781 N</text>
+      <text x="1060" y="286" fill="#615E82" font-size="12">INDEX 001</text>
+    </g>
+
+    <text x="54" y="158" fill="#ECE9F4" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.8">MAHMMOD</text>
+    <text x="54" y="214" fill="url(#signal)" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.8">ABUHANI</text>
+
+    <g transform="translate(720 258)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">
+      <circle cx="4" cy="-4" r="4" fill="#4BE3B5"/>
+      <text x="18" y="0" fill="#AFA9EC">OPEN TO 2026 + 2027 ROLES</text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="318" rx="20" stroke="#332B52" stroke-width="2"/>
+  <path d="M18 1H214" stroke="#FF5C9E" stroke-width="3"/>
+  <path d="M986 319H1182" stroke="#4BE3B5" stroke-width="3"/>
+</svg>
