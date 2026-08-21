@@ -46,7 +46,9 @@ The best fit is a team where careful data preparation, SQL or Python analysis, a
       <strong>Machine Learning Notebook Portfolio</strong><br>
       <sub>PYTHON · SCIKIT-LEARN · JUPYTER · STREAMLIT</sub><br><br>
       A public, reproducible classical-ML portfolio with a leakage-aware Bank Marketing case study, seven notebooks, model cards, browser parity checks, and a hosted Penguins demo.<br><br>
-      <a href="https://ml-notebooks-portfolio-public.streamlit.app/"><strong>Open the live demo ↗</strong></a>
+      <a href="https://mahmmodabuhani.github.io/applied-ml-notebooks/"><strong>Open the static explorer ↗</strong></a>
+      &nbsp;·&nbsp;
+      <a href="https://ml-notebooks-portfolio-public.streamlit.app/">Optional hosted demo</a>
       &nbsp;·&nbsp;
       <a href="https://github.com/MahmmodAbuhani/applied-ml-notebooks">Inspect the repository</a>
     </td>
