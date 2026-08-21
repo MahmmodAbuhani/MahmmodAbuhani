@@ -32,10 +32,12 @@ The best fit is a team where careful data preparation, SQL or Python analysis, a
   <tr>
     <td width="72" align="center"><code>01</code></td>
     <td>
-      <strong>SportLFC Data Systems</strong><br>
-      <sub>PHP · MYSQL · RELATIONAL DESIGN · DATA QUALITY</sub><br><br>
-      A local portfolio demo built around normalized registration data, overlapping user roles, derived fee reporting, and executable SQL quality checks.<br><br>
-      <code>PRIVATE WORK SAMPLE</code> <sub>Not publicly linked while release review is incomplete.</sub>
+      <strong>Club Operations System</strong><br>
+      <sub>PHP · MYSQL · RELATIONAL INTEGRITY · CONCURRENCY</sub><br><br>
+      A local PHP/MySQL reference system for a fictional sports program, with role-aware workflows, SQL integrity rules, synchronized contention tests, and a static GitHub Pages evidence walkthrough.<br><br>
+      <a href="https://mahmmodabuhani.github.io/club-operations-system/"><strong>Open the static walkthrough ↗</strong></a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/MahmmodAbuhani/club-operations-system">Inspect the repository</a>
     </td>
   </tr>
   <tr>
